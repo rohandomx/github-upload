@@ -1,0 +1,187 @@
+id,label,category,count
+1,JEP,recepient,0
+100,identificar,sender,60
+101,Raworth,sender,44
+102,F. Mathias,sender,42
+103,Ortega,sender,32
+104,Díaz-Lastra,sender,29
+105,Fernández Retamar,sender,28
+106,Usigli,sender,28
+107,Sosnowski,sender,28
+108,Brotherston,sender,26
+109,Goytisolo,sender,25
+110,Hoeksema,sender,25
+111,Campbell,sender,25
+112,Andújar,sender,22
+113,Aridjis,sender,22
+114,Christ,sender,21
+115,Muchnik,sender,21
+116,Donoso,sender,17
+117,Uribe,sender,17
+118,Rojo,sender,16
+119,Grande,sender,16
+120,Ullán,sender,16
+121,Rama,sender,16
+122,J. Valdés,sender,16
+123,Schlesinger,sender,15
+124,Pitol,sender,15
+125,Gutiérrez Vega,sender,14
+126,Michel Fossey,sender,14
+127,Florescano,sender,14
+128,Gustavo Cobo Borda,sender,14
+129,Lastra,sender,13
+130,Alfonso Diez,sender,13
+131,Flores,sender,13
+132,Monsiváis,sender,13
+133,Ferreira de Loanda,sender,12
+134,McWhirter,sender,12
+135,Espresate,sender,12
+136,Flores Castro,sender,11
+137,Nandino,sender,11
+138,Villanueva,sender,11
+139,Martin,sender,11
+140,Armando Epple,sender,11
+141,Fuentes,sender,11
+142,Manjarrez,sender,11
+143,Durán,sender,11
+144,Burgos,sender,11
+145,Novo,sender,10
+146,J. Verani,sender,10
+147,Muchnick,sender,10
+148,Salazar Bondy,sender,10
+149,Connor,sender,10
+150,Carballido,sender,10
+151,Sucre,sender,9
+152,Gonzales,sender,9
+153,Solís,sender,9
+154,Scheer,sender,9
+155,Baciu,sender,9
+156,Franco,sender,9
+157,Miguel Oviedo,sender,9
+158,Figueroa,sender,9
+159,Balcells,sender,9
+160,Quessep,sender,9
+161,Álvarez Murena,sender,8
+162,Benítez,sender,8
+163,M. Pérez Ponce,sender,8
+164,Vidal Buzzi,sender,8
+165,Bianco,sender,8
+166,Orfila,sender,8
+167,A. Schulman,sender,7
+168,C. Broderick,sender,7
+169,Paley Francescato,sender,7
+170,Rivero,sender,7
+171,de Costa,sender,7
+172,Usigli,sender,7
+173,Vázquez Amaral,sender,6
+174,Ivask,sender,6
+175,Glassgold,sender,6
+176,Betsy Edwards,sender,6
+177,de Undurraga,sender,6
+178,Roggiano,sender,6
+179,Xirau,sender,6
+180,Barnet,sender,6
+181,Antonio Peñalosa,sender,6
+182,Peden,sender,6
+183,Pilar Donoso,sender,6
+184,Rebaza-Soraluz,sender,6
+185,Durand,sender,6
+186,Gálvez,sender,6
+187,E. Tanck,sender,6
+188,Sommers,sender,6
+189,Cortínez,sender,6
+190,Rovinski,sender,6
+191,Ayala,sender,6
+192,M. Cohen,sender,6
+193,Cornejo Polar,sender,6
+194,Mantero,sender,6
+195,Vitale,sender,6
+196,Caracciolo-Trejo,sender,6
+197,García Terrés,sender,5
+198,Curland,sender,5
+199,Messerli,sender,5
+200,Marqués,sender,5
+201,Jiménez,sender,5
+202,Varela,sender,5
+203,Barros Sierra,sender,5
+204,Oliveros,sender,5
+205,del Amo,sender,5
+206,Zaid,sender,5
+207,María y Campos,sender,5
+208,Charry Lara,sender,5
+209,de Campos,sender,5
+210,Livermore,sender,5
+211,Rivera,sender,5
+212,Ford,sender,5
+213,P. Debicki,sender,5
+214,Fernández Christlieb,sender,5
+215,García Oropeza,sender,5
+216,de Cortanze,sender,5
+217,Armand,sender,5
+218,Vicente Melo,sender,5
+219,García Ponce,sender,5
+220,Rubman,sender,5
+221,M. Gross,sender,5
+222,Luis Martínez,sender,5
+223,Luis Merino,sender,5
+224,*Fernando,sender,5
+225,*Ana,sender,5
+226,María Guelbenzu,sender,5
+227,Alonzo,sender,5
+228,Antonio de Villena,sender,5
+229,Rodríguez Feo,sender,5
+230,Orrillo,sender,5
+231,Fuentes,sender,5
+232,H. Rubman,sender,5
+233,Márquez Balderas,sender,4
+234,E. Kirwan,sender,4
+235,Aguilar Mora,sender,4
+236,Zekeli,sender,4
+237,Ortiz Gil,sender,4
+238,M.,sender,4
+239,y Betty Lafer,sender,4
+240,W. Phillips,sender,4
+241,L. Brown,sender,4
+242,María Valverde,sender,4
+243,Dauster,sender,4
+244,Emilia Pacheco,sender,4
+245,M. Pavón Abreu,sender,4
+246,Neumann,sender,4
+247,M. Dorn,sender,4
+248,Vargas LLosa,sender,4
+249,García Cantú,sender,4
+250,Aguilera Díaz,sender,4
+251,Montes de Oca,sender,4
+252,Cantú,sender,4
+253,González Casanova,sender,4
+254,Seix,sender,4
+255,Bockus Aponte,sender,4
+256,Layera,sender,4
+257,Díaz García,sender,4
+258,Andrade,sender,4
+259,A. Solé,sender,4
+260,Vitale,sender,4
+261,Will,sender,4
+262,Muchik,sender,4
+263,Reid,sender,4
+264,Steele,sender,4
+265,Murúa,sender,4
+266,Schon,sender,4
+267,Sabato,sender,4
+268,Silva Herzog,sender,4
+269,Menton,sender,4
+270,M. Livesey-McCauley,sender,4
+271,Quintero Mena,sender,4
+272,G. Earle,sender,4
+273,Feodoroff,sender,4
+274,Baranda Berrón,sender,4
+275,Ruiz de Torres,sender,4
+276,Jitrik,sender,4
+277,Krauze,sender,4
+278,Couffon,sender,4
+279,y Rita,sender,4
+280,M. Cluff,sender,4
+281,Leal,sender,4
+282,Coleman,sender,4
+283,Verástegui,sender,4
+284,Osorio,sender,3
